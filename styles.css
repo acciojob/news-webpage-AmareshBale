@@ -13,6 +13,7 @@
 	justify-content:space-between;
 }
 .latest-news-section{
+	text-alin:center;
 	width:30%;
 	background:white;
 	height:30%;
@@ -29,6 +30,7 @@
 	background:white
 }
 .pictorial-news{
+	text-align:center;
 	width:30%;
 	padding:10px;
 	border-radius:10px;
