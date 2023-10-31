@@ -4,9 +4,12 @@
 }
 .header{
 	background:#011e29;
-	padding:20px;
+	padding:10px;
 	color:white;
 	text-align:center;
+}
+h1{
+	background:#011e29
 }
 .news{
 	display:flex;
@@ -29,7 +32,7 @@
 	margin:5px;
 	background:white
 }
-.pictorial-news{
+.pictorial-news-section{
 	text-align:center;
 	width:30%;
 	padding:10px;
